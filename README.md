@@ -1,5 +1,5 @@
 # Tensorball
-Tensorball is ...
+Tensorball is a...
 
 TODO: Wiki
 
