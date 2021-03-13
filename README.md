@@ -1,5 +1,5 @@
 # Tensorball
-TODO: Description
+Tensorball is ...
 
 TODO: Wiki
 
